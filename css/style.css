@@ -1,6 +1,7 @@
 header{
     background-color: aquamarine;
     height: 200px;
+    /* ho provato ad inserire l'immagine nel mio pc in questo modo */
     background-image: url(./img/pattern.png);
     
 }
