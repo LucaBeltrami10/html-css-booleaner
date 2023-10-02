@@ -21,3 +21,7 @@ header{
 table{
     width: 100%;
 }
+
+.background-yellow{
+    background-color: yellow;
+}
