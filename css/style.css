@@ -10,6 +10,9 @@ header{
     position: absolute;
     bottom: 0;
 }
+p{
+    margin: 10px;
+}
 
 .text-gray{
     color: gray;
@@ -17,6 +20,14 @@ header{
 .text-white{
     color: white;
 }
+.text-aqua{
+    color: rgba(91,191,235,255);
+}
+.font-style-italic{
+    font-style: italic;
+}
+
+
 .background-aqua{
     background-color: rgba(32,169,229,255);
 }
@@ -27,7 +38,21 @@ header{
 table{
     width: 100%;
 }
+td{
+    height: 40px;
+}
 
 .background-yellow{
     background-color: yellow;
+}
+
+
+.footer-advise{
+    position: relative;
+}
+
+.footer-advise >h4{
+    margin: 3px;
+    position: absolute;
+    top: 0;
 }
