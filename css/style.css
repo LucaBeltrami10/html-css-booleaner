@@ -1,6 +1,6 @@
 header{
     background-color: rgba(78,160,255,255);
-    height: 200px;
+    height: 150px;
     /* ho provato ad inserire l'immagine nel mio pc in questo modo */
     background-image: url(../img/pattern.png);
     position: relative;  
@@ -15,7 +15,7 @@ p{
 }
 
 .text-gray{
-    color: gray;
+    color: #7e7e7e;
 }
 .text-white{
     color: white;
@@ -26,6 +26,9 @@ p{
 .font-style-italic{
     font-style: italic;
 }
+.font-weight-700{
+    font-weight: 700;
+}
 
 
 .background-aqua{
@@ -34,9 +37,10 @@ p{
 .background-lightblue{
     background-color: rgba(177,229,242,255);
 }
-
+/* tabella senza bordi!!! */
 table{
     width: 100%;
+    border-spacing: 0px;
 }
 td{
     height: 40px;
