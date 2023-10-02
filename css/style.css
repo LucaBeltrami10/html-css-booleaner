@@ -1,4 +1,6 @@
 header{
+    background-color: aqua;
+    height: 200px;
+    background-image: url(img/pattern.png);
     
-    background-color: aquamarine;   
 }
