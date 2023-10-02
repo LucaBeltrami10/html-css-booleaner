@@ -1,6 +1,23 @@
 header{
-    background-color: aqua;
+    background-color: aquamarine;
     height: 200px;
-    background-image: url(img/pattern.png);
+    background-image: url(./img/pattern.png);
     
+}
+
+.text-gray{
+    color: gray;
+}
+.text-white{
+    color: white;
+}
+.background-aqua{
+    background-color: rgba(32,169,229,255);
+}
+.background-lightblue{
+    background-color: rgba(177,229,242,255);
+}
+
+table{
+    width: 100%;
 }
