@@ -1,6 +1,8 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+/* sezione header */
 header{
     background-color: rgba(78,160,255,255);
     height: 150px;
@@ -17,10 +19,14 @@ header{
     font-size: 1,5em;
 }
 
+
 p{
     margin: 10px;
 }
-
+.autore-foto{
+    font-style: italic;
+    font-size: 10px;
+}
 .text-gray{
     color: #7e7e7e;
 }
