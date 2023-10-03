@@ -13,6 +13,10 @@ header{
     position: absolute;
     bottom: 0;
 }
+.titolo> h1{
+    font-size: 1,5em;
+}
+
 p{
     margin: 10px;
 }
@@ -32,7 +36,6 @@ p{
 .font-weight-700{
     font-weight: 700;
 }
-
 
 .background-aqua{
     background-color: rgba(32,169,229,255);
